@@ -127,9 +127,6 @@ http://111.21.22.148/PLTV/88888893/224/3221226206/index.m3u8?blog.ntnas.top
 #http://192.168.2.1:1111/61.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="72" tvg-name="三沙卫视" group-title="卫视",三沙卫视
 #http://192.168.2.1:1111/62.ts
-
-####################数字付费####################
-
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" tvg-id="73" tvg-name="中国教育1台" group-title="数字付费",教育1台
 http://111.21.22.148/PLTV/88888888/224/3221225753/index.m3u8?blog.ntnas.top
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" tvg-id="74" tvg-name="中国教育2台" group-title="数字付费",教育2台
@@ -278,9 +275,6 @@ http://111.21.22.148/PLTV/88888893/224/3221226462/index.m3u8?blog.ntnas.top
 #http://192.168.2.1:1111/135.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" tvg-id="7245" tvg-name="中国教育4台" group-title="数字付费",教育4台
 ##http://192.168.2.1:1111/136.ts
-
-####################地方台####################
-
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" tvg-id="67" tvg-name="卡酷动画" group-title="地方台",卡酷动画
 #http://192.168.2.1:1111/137.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="1872" tvg-name="北京纪实" group-title="地方台",北京冬奥纪实
@@ -467,9 +461,6 @@ http://111.21.22.148/PLTV/88888893/224/3221226462/index.m3u8?blog.ntnas.top
 #http://192.168.2.1:1111/228.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" tvg-id="2025" tvg-name="金鹰纪实" group-title="地方台",金鹰纪实
 ##http://192.168.2.1:1111/229.ts
-
-####################港澳台####################
-
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳",翡翠台
 #http://192.168.2.1:1111/230.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳",明珠台
@@ -506,9 +497,6 @@ http://111.21.22.148/PLTV/88888893/224/3221226462/index.m3u8?blog.ntnas.top
 #http://192.168.2.1:1111/246.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png" tvg-id="7239" tvg-name="香港603" group-title="港澳",香港有线603
 #http://192.168.2.1:1111/247.ts
-
-####################台湾台####################
-
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" tvg-id="131" tvg-name="TVB星河频道" group-title="台湾",TVB星河频道
 #http://192.168.2.1:1111/248.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" tvg-id="517" tvg-name="星卫HD电影" group-title="台湾",星卫HD电影台
@@ -861,9 +849,6 @@ http://111.21.22.148/PLTV/88888893/224/3221226462/index.m3u8?blog.ntnas.top
 #http://192.168.2.1:1111/422.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" tvg-id="7229" tvg-name="唯心电视" group-title="台湾",唯心电视台
 #http://192.168.2.1:1111/423.ts
-
-####################国外台####################
-
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" tvg-id="331" tvg-name="NHKWorld" group-title="国外",NHK World TV
 #http://192.168.2.1:1111/424.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" tvg-id="427" tvg-name="国家地理野生频道" group-title="国外",国家地理野生频道
