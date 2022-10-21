@@ -45,9 +45,6 @@ http://192.168.2.1:1111/20.ts
 http://192.168.2.1:1111/21.ts
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="央视",CCTV奥林匹克频道
 http://192.168.2.1:1111/22.ts
-
-####################央视####################
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京IPTV4k
 http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="27" tvg-name="湖南卫视" group-title="卫视",湖南卫视
