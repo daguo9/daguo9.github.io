@@ -1,5 +1,5 @@
-##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳",翡翠台
-#http://192.168.2.1:1111/230.ts
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳",翡翠台
+https://epg.pm/stream/27b938f58258ff561635668fae6704dfddcaf9faa95db18d97b14266ed6ccbf3.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳",明珠台
 #http://192.168.2.1:1111/231.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" tvg-id="129" tvg-name="TVB经典台" group-title="港澳",TVB经典台
