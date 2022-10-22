@@ -1,0 +1,138 @@
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" tvg-id="331" tvg-name="NHKWorld" group-title="国外",NHK World TV
+#http://192.168.2.1:1111/424.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" tvg-id="427" tvg-name="国家地理野生频道" group-title="国外",国家地理野生频道
+#http://192.168.2.1:1111/425.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mezzo.png" tvg-id="468" tvg-name="MEZZOLIVEHD" group-title="国外",MEZZO LIVE HD
+#http://192.168.2.1:1111/426.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" tvg-id="509" tvg-name="Lifetime" group-title="国外",Lifetime 娱乐频道
+#http://192.168.2.1:1111/427.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" tvg-id="664" tvg-name="BBCWorldNews" group-title="国外",BBC World News
+#http://192.168.2.1:1111/428.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" tvg-id="673" tvg-name="CN卡通频道" group-title="国外",CN卡通频道
+#http://192.168.2.1:1111/429.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" tvg-id="688" tvg-name="CNBCHongKong" group-title="国外",CNBC亚太财经
+#http://192.168.2.1:1111/430.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" tvg-id="691" tvg-name="国家地理频道" group-title="国外",国家地理频道
+#http://192.168.2.1:1111/431.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" tvg-id="701" tvg-name="FashionTV" group-title="国外",法国时尚台
+#http://192.168.2.1:1111/432.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FXHD.png" tvg-id="711" tvg-name="FXHD" group-title="国外",FX HD
+#http://192.168.2.1:1111/433.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" tvg-id="730" tvg-name="DW" group-title="国外",DW德国之声(ENGLISH)
+#http://192.168.2.1:1111/434.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png" tvg-id="731" tvg-name="TV5Monde" group-title="国外",法国TV5Monde
+#http://192.168.2.1:1111/435.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" tvg-id="734" tvg-name="france24" group-title="国外",法国24台
+#http://192.168.2.1:1111/436.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" tvg-id="742" tvg-name="SkyNews" group-title="国外",Sky News
+#http://192.168.2.1:1111/437.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" tvg-id="871" tvg-name="cinemaworld" group-title="国外",cinemaworld
+#http://192.168.2.1:1111/438.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" tvg-id="891" tvg-name="CGTNDocumentary" group-title="国外",CGTN 纪录(英)
+#http://192.168.2.1:1111/439.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" tvg-id="988" tvg-name="TraceSports" group-title="国外",Trace Sports
+#http://192.168.2.1:1111/440.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/outdoor.png" tvg-id="989" tvg-name="Outdoor" group-title="国外",Outdoor Channel
+#http://192.168.2.1:1111/441.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" tvg-id="1007" tvg-name="HITS" group-title="国外",HITS
+#http://192.168.2.1:1111/442.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" tvg-id="6023" tvg-name="CNN" group-title="国外",CNN国际新闻频道
+#http://192.168.2.1:1111/443.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png" tvg-id="6036" tvg-name="国家地理频道(台湾)" group-title="国外",国家地理频道(台湾)
+#http://192.168.2.1:1111/444.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-id="6037" tvg-name="Discovery" group-title="国外",探索发现频道
+#http://192.168.2.1:1111/445.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" tvg-id="6038" tvg-name="TLC旅游生活频道" group-title="国外",TLC旅游生活频道
+#http://192.168.2.1:1111/446.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" tvg-id="6039" tvg-name="动物星球" group-title="国外",动物星球
+#http://192.168.2.1:1111/447.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" tvg-id="6041" tvg-name="Disney" group-title="国外",迪士尼频道
+#http://192.168.2.1:1111/448.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-id="6083" tvg-name="HBO" group-title="国外",HBO
+#http://192.168.2.1:1111/449.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" tvg-id="6085" tvg-name="AXN" group-title="国外",AXN
+#http://192.168.2.1:1111/450.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-id="6087" tvg-name="FOXMOVIES" group-title="国外",FOX MOVIES
+#http://192.168.2.1:1111/451.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" tvg-id="6089" tvg-name="CINEMAX" group-title="国外",CINEMAX
+#http://192.168.2.1:1111/452.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" tvg-id="6091" tvg-name="FOXSports" group-title="国外",FOX Sports
+#http://192.168.2.1:1111/453.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" tvg-id="6093" tvg-name="ELEVEN体育一台" group-title="国外",ELEVEN体育一台
+#http://192.168.2.1:1111/454.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" tvg-id="6097" tvg-name="FOX" group-title="国外",FOX
+#http://192.168.2.1:1111/455.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" tvg-id="6113" tvg-name="NHK" group-title="国外",NHK
+#http://192.168.2.1:1111/456.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" tvg-id="6139" tvg-name="ChannelNewsAsia" group-title="国外",亚洲新闻台
+#http://192.168.2.1:1111/457.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" tvg-id="6140" tvg-name="BloombergTV" group-title="国外",彭博财经台
+#http://192.168.2.1:1111/458.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" tvg-id="6141" tvg-name="ArirangTV" group-title="国外",韩国阿里郎
+#http://192.168.2.1:1111/459.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" tvg-id="6147" tvg-name="BBCLifestyle" group-title="国外",BBC Lifestyle(高清)
+#http://192.168.2.1:1111/460.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/dreamworks.png" tvg-id="6148" tvg-name="DREAMWORKS" group-title="国外",梦工厂
+#http://192.168.2.1:1111/461.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" tvg-id="6149" tvg-name="WarnerTV" group-title="国外",Warner TV
+#http://192.168.2.1:1111/462.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-id="6152" tvg-name="HBOHD" group-title="国外",HBO HD
+#http://192.168.2.1:1111/463.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-id="6153" tvg-name="HBOHits" group-title="国外",HBO 强档钜献
+#http://192.168.2.1:1111/464.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" tvg-id="6154" tvg-name="HBOSignature" group-title="国外",HBO 原创钜献
+#http://192.168.2.1:1111/465.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="6155" tvg-name="HBOFamily" group-title="国外",HBO 温馨家庭
+#http://192.168.2.1:1111/466.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BlueAntEntertainment.png" tvg-id="6156" tvg-name="BlueAntEntertainment" group-title="国外",BlueAnt综艺娱乐
+#http://192.168.2.1:1111/467.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" tvg-id="6159" tvg-name="tvN" group-title="国外",tvN
+#http://192.168.2.1:1111/468.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" tvg-id="6161" tvg-name="韩国娱乐台KMTV" group-title="国外",韩国娱乐台KMTV
+#http://192.168.2.1:1111/469.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" tvg-id="6164" tvg-name="EVE" group-title="国外",EVE
+#http://192.168.2.1:1111/470.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" tvg-id="6165" tvg-name="Discovery科学" group-title="国外",Discovery 科学频道
+#http://192.168.2.1:1111/471.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" tvg-id="6166" tvg-name="DiscoveryAsia" group-title="国外",Discovery Asia
+#http://192.168.2.1:1111/472.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" tvg-id="6170" tvg-name="DMAX" group-title="国外",DMAX(高清)
+#http://192.168.2.1:1111/473.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/medici-arts.png" tvg-id="6173" tvg-name="梅迪奇艺术" group-title="国外",梅迪奇艺术
+#http://192.168.2.1:1111/474.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BLUEAntExtreme.png" tvg-id="6182" tvg-name="BlueAntExtreme" group-title="国外",BlueAnt超极娱乐
+#http://192.168.2.1:1111/475.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="6183" tvg-name="Euronews" group-title="国外",欧洲新闻
+#http://192.168.2.1:1111/476.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" tvg-id="6184" tvg-name="Nickelodeon" group-title="国外",尼克儿童频道
+#http://192.168.2.1:1111/477.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" tvg-id="6185" tvg-name="NickJr." group-title="国外",小尼克频道
+#http://192.168.2.1:1111/478.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" tvg-id="6187" tvg-name="CBeebies" group-title="国外",CBeebies
+#http://192.168.2.1:1111/479.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" tvg-id="6188" tvg-name="Boomerang" group-title="国外",Boomerang
+#http://192.168.2.1:1111/480.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" tvg-id="6189" tvg-name="BBCEarth" group-title="国外",BBC Earth
+#http://192.168.2.1:1111/481.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" tvg-id="7100" tvg-name="ABCAustralia" group-title="国外",ABCAustralia
+#http://192.168.2.1:1111/482.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNN.png" tvg-id="7106" tvg-name="CNNHeadlineNews" group-title="国外",CNN头条新闻台
+#http://192.168.2.1:1111/483.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/nhkworldp.png" tvg-id="7110" tvg-name="NHKWorldPremium" group-title="国外",NHKWorldPremium
+#http://192.168.2.1:1111/484.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="爱尔达娱乐台" group-title="国外",爱尔达娱乐台
+#http://192.168.2.1:1111/485.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" tvg-id="7149" tvg-name="ELEVEN体育二台" group-title="国外",ELEVEN体育二台
+#http://192.168.2.1:1111/486.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" tvg-id="7152" tvg-name="History" group-title="国外",History 历史频道
+#http://192.168.2.1:1111/487.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Smart知识台.png" tvg-id="7155" tvg-name="SMART知识频道" group-title="国外",SMART 知识频道
+#http://192.168.2.1:1111/488.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" tvg-id="7165" tvg-name="AMC" group-title="国外",AMC
+#http://192.168.2.1:1111/489.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" tvg-id="7183" tvg-name="aljazeera" group-title="国外",半岛国际新闻台
+#http://192.168.2.1:1111/490.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" tvg-id="7215" tvg-name="EUROSPORT" group-title="国外",EUROSPORT
+#http://192.168.2.1:1111/491.ts
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" tvg-id="7238" tvg-name="Animax" group-title="国外",Animax
+#http://192.168.2.1:1111/492.ts
