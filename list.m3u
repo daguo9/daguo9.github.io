@@ -199,8 +199,8 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8
 #http://192.168.2.1:1111/98.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE25.jpg" tvg-id="6576" tvg-name="青年学苑" group-title="数字付费",中数青年学苑
 #http://192.168.2.1:1111/99.ts
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg" tvg-id="6577" tvg-name="摄影频道" group-title="数字付费",中数摄影频道
-http://baidu.live.cqccn.com/__cl/cg:live/__c/sheying/__op/default/__f//index.m3u8?blog.ntnas.top
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg" tvg-id="6577" tvg-name="摄影频道" group-title="数字付费",中数摄影频道
+#http://baidu.live.cqccn.com/__cl/cg:live/__c/sheying/__op/default/__f//index.m3u8?blog.ntnas.top
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" tvg-id="6578" tvg-name="天元围棋" group-title="数字付费",中数天元围棋
 #http://192.168.2.1:1111/101.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE29.png" tvg-id="6579" tvg-name="现代女性" group-title="数字付费",中数现代女性
@@ -261,8 +261,8 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
 #http://192.168.2.1:1111/130.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" tvg-id="6623" tvg-name="财富天下" group-title="数字付费",北广财富天下
 #http://192.168.2.1:1111/131.ts
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg" tvg-id="6627" tvg-name="百姓健康" group-title="数字付费",北广百姓健康
-http://baidu.live.cqccn.com/__cl/cg:live/__c/jiankangSD/__op/default/__f//index.m3u8?blog.ntnas.top
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg" tvg-id="6627" tvg-name="百姓健康" group-title="数字付费",北广百姓健康
+#http://baidu.live.cqccn.com/__cl/cg:live/__c/jiankangSD/__op/default/__f//index.m3u8?blog.ntnas.top
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" tvg-id="6638" tvg-name="精品剧场" group-title="数字付费",华数精品剧场
 #http://192.168.2.1:1111/133.ts
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSSEDM.jpg" tvg-id="6639" tvg-name="少儿动漫" group-title="数字付费",华数少儿动漫
