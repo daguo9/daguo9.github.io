@@ -15,3 +15,17 @@ http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.f
 http://pull-l3-cny.douyincdn.com/third/stream-d031f22e749d09f261df822eb69fd743.flv
 #EXTINF:-1,八大综合HD
 http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.flv
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/凤凰卫视资讯台" tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台",凤凰卫视资讯台
+http://175.154.201.15:8090/custom20.m3u8
+#EXTINF:-1,星空卫视
+http://175.154.201.15:8090/custom21.m3u8
+#EXTINF:-1,V音乐台
+http://175.154.201.15:8090/custom22.m3u8
+#EXTINF:-1,4K乐享高清
+http://175.154.201.15:8090/custom27.m3u8
+#EXTINF:-1,4K超高清电影
+http://175.154.201.15:8090/custom28.m3u8
+#EXTINF:-1,HD看电影
+http://175.154.201.15:8090/custom29.m3u8
+#EXTINF:-1,星光院线
+http://175.154.201.15:8090/custom30.m3u8
