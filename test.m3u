@@ -1,24 +1,12 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
-#EXTINF:-1,寰宇新闻台
-http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.flv
 #EXTINF:-1,莲花电影台
 http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.flv
 #EXTINF:-1,HBO家庭影院
 http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.flv
-#EXTINF:-1,HBO强档影院
-http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.flv
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/动物星球" tvg-id="动物星球" tvg-name="动物星球",动物星球HD
 http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.flv
 #EXTINF:-1,卫视中文HD
 http://pull-l3-cny.douyincdn.com/third/stream-41f29bf461ffa99e595f70b9593c61aa.flv
-#EXTINF:-1,探索动力HD
-http://pull-l3-cny.douyincdn.com/third/stream-ea6907626f7d64aa61e5ebf88180e43d.flv
-#EXTINF:-1,探索科学HD
-http://pull-l3-cny.douyincdn.com/third/stream-2ce10c5078ec753f8f50f4c3897e8f76.flv
-#EXTINF:-1,纬来体育HD
-http://pull-l3-cny.douyincdn.com/third/stream-05fadffbceabeb97bbf09061a165791b.flv
-#EXTINF:-1,中天新闻台
-http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.flv
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/中天综合台" tvg-id="中天综合台" tvg-name="中天综合台",中天综合台
 http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/中天娱乐台" tvg-id="中天娱乐台" tvg-name="中天娱乐台",中天娱乐台
@@ -27,30 +15,3 @@ http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.f
 http://pull-l3-cny.douyincdn.com/third/stream-d031f22e749d09f261df822eb69fd743.flv
 #EXTINF:-1,八大综合HD
 http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.flv
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",明珠台
-http://r.jdshipin.com/ZQ4kN
-#EXTINF:-1,功夫台
-https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-#EXTINF:-1,澳亚卫视
-http://107.151.203.111:2209/135/hk.php?id=aoya
-#EXTINF:-1,Premiere
-http://208.115.225.174:14468
-#EXTINF:-1,HBO
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1,澳门莲花
-https://p.ggiptv.com/v/macaulotustv.php
-#EXTINF:-1,好莱坞电影
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?blog.ntnas.top
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
-http://124.238.99.44:808/hls/352/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",TVB翡翠台
-http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1,香港佛陀
-http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-#EXTINF:-1,中國環球電視
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,香港衛視文旅
-https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-#EXTINF:-1,CNC中文
-http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
