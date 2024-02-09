@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
-http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8?blog.ntnas.top
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
